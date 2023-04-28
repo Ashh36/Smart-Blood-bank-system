@@ -5,7 +5,7 @@ CODE of Blood Bank IOT Circuit
 #include "DHT.h"
 #include "ESP8266.h"
 #include "LiquidCrystal.h"
-
+#include "thingspeak.h"
 
 // Pin Definitions
 #define DHT_PIN_DATA	2
